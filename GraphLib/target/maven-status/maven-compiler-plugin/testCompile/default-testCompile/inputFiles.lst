@@ -1,0 +1,8 @@
+/media/greefon/HDD/JavaProjects/GraphLibrary/GraphLib/src/test/java/com/greefon/graphs/algo/BreadthFirstSearchTest.java
+/media/greefon/HDD/JavaProjects/GraphLibrary/GraphLib/src/test/java/com/greefon/graphs/algo/ConnectivityInspectorTest.java
+/media/greefon/HDD/JavaProjects/GraphLibrary/GraphLib/src/test/java/com/greefon/graphs/algo/DepthFirstSearchTest.java
+/media/greefon/HDD/JavaProjects/GraphLibrary/GraphLib/src/test/java/com/greefon/graphs/algo/DijkstraTest.java
+/media/greefon/HDD/JavaProjects/GraphLibrary/GraphLib/src/test/java/com/greefon/graphs/demo/Main.java
+/media/greefon/HDD/JavaProjects/GraphLibrary/GraphLib/src/test/java/com/greefon/graphs/impl/DirectedGraphTest.java
+/media/greefon/HDD/JavaProjects/GraphLibrary/GraphLib/src/test/java/com/greefon/graphs/impl/UndirectedGraphTest.java
+/media/greefon/HDD/JavaProjects/GraphLibrary/GraphLib/src/test/java/com/greefon/graphs/util/GraphRandomizerTest.java
